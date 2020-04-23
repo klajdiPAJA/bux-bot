@@ -1,0 +1,9 @@
+{
+  "t": "trading.quote",
+  "id": "8bfea4ed-83b2-11ea-af48-d386f12173d1",
+  "v": 2,
+  "body": {
+    "securityId": "sb26493",
+    "currentPrice": "10451.5"
+  }
+}

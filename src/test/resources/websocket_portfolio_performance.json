@@ -1,0 +1,14 @@
+{
+  "t": "portfolio.performance",
+  "id": "8bcb11ef-83b2-11ea-933d-af72cb7787bb",
+  "v": 1,
+  "body": {
+    "accountValue": {
+      "currency": "BUX",
+      "decimals": 2,
+      "amount": "96926.97"
+    },
+    "performance": "0.0212",
+    "suggestFunding": false
+  }
+}

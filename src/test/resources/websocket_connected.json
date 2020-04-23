@@ -1,0 +1,14 @@
+{
+  "t": "connect.connected",
+  "id": "3258a9c5-83b2-11ea-aba3-03a69a26b136",
+  "v": 1,
+  "body": {
+    "sessionId": "b739fb80-3575-4b01-8751-33d1a4dc8f92",
+    "time": 1587461195986,
+    "pop": {
+      "clientId": "8473622939",
+      "sessionId": "b739fb80-3575-4b01-8751-33d1a4dc8f92"
+    },
+    "clientVersion": "UNKNOWN"
+  }
+}
