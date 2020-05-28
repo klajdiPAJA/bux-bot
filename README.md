@@ -1,4 +1,3 @@
-# Backend Developer Assignment Introduction
 ## Introduction
 
 The BUX mobile apps communicate with the BUX backend through an HTTP RESTful API and messages exchanged over a WebSocket connection.
